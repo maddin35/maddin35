@@ -6,18 +6,18 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou {MADSON NASCIMENTO}</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {CAUCAIA-CEARÁ}/{BRASIL}.</h3>
+<h3 align="center">{AUTONOMO} residente em {CAUCAIA-CEARÁ}/{BRASIL}.</h3>
 <p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
 > _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
+- 🔭 Atualmente, eu trabalho na [EMPRESA AUTONOMO DA VIDA](https://site-da-empresa.com/).
 
 - 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **madinpuck@hotmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
